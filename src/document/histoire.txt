@@ -1,0 +1,25 @@
+Arthur est le premier � se joindre � la derni�re bataille entre les Hommes et les dragons.
+Thomas: Bonjour, je m'appelle Thomas et je viens me joindre au combat.
+
+Le dragon Dragonnnet fut le premier � arriver sur le champ de bataille.
+Thomas: Je prends mon arc.
+
+Thomas attaque Dragonnnet avec son arc
+Dragonnnet subit une violente attaque,  mais il parvient a se relever
+Le heros Arthur: je prends excalibir
+Arthur attaque Dragonnnet avec son epee
+Dragonnnet subit une violente attaque,  mais il parvient a se relever
+Dragonnnet crache une boule de feu sur Arthur
+Arthur subit une violente attaque,  mais il parvient a se relever
+Thomas a laché son arc
+Thomas: Peux-tu me laisser ton epee?
+Le heros Arthur: Pas de souci, cela me permettra de reprendre mon souffle.
+Arthur a laché son epee
+Thomas: Je prends l'epee meme si pour cela je dois perdre des forces
+Thomas attaque Dragonnnet avec son epee
+Dragonnnet subit une violente attaque,  mais il parvient a se relever
+Le heros Arthur: Je prends mon arc.
+Arthur attaque Dragonnnet avec son arc
+Dragonnnet subit une violente attaque,  trop violente pour survivre
+c'est ainsi que le dragon Dragonnnet mourut 
+Les Hommes ont conquis la lande, leurs villages n'auront plus jamais � trembler devant les dragons.
